@@ -56,7 +56,7 @@ require_once ('dbhelp.php');
         <div id="header">
             <!-- Begin -->
             <ul id="nav">
-                <li><a href="index.php">Home</a></li>
+                <li><a href="index.html">Home</a></li>
                 <li><a href="sinhvien.php">Student</a></li>
                 <li><a href="">Information</a></li>
                 <li><a href="">Contact</a></li>                
